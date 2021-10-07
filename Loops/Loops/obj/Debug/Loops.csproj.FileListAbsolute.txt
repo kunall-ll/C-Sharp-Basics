@@ -1,0 +1,6 @@
+C:\Users\kunal\source\repos\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\kunal\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\kunal\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\kunal\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\kunal\source\repos\Loops\Loops\obj\Debug\Loops.pdb

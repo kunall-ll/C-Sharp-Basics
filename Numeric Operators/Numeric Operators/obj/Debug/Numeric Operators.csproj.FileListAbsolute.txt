@@ -1,0 +1,7 @@
+C:\Users\kunal\source\repos\Numeric Operators\Numeric Operators\bin\Debug\Numeric Operators.exe.config
+C:\Users\kunal\source\repos\Numeric Operators\Numeric Operators\bin\Debug\Numeric Operators.exe
+C:\Users\kunal\source\repos\Numeric Operators\Numeric Operators\bin\Debug\Numeric Operators.pdb
+C:\Users\kunal\source\repos\Numeric Operators\Numeric Operators\obj\Debug\Numeric Operators.csproj.AssemblyReference.cache
+C:\Users\kunal\source\repos\Numeric Operators\Numeric Operators\obj\Debug\Numeric Operators.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\Numeric Operators\Numeric Operators\obj\Debug\Numeric Operators.exe
+C:\Users\kunal\source\repos\Numeric Operators\Numeric Operators\obj\Debug\Numeric Operators.pdb

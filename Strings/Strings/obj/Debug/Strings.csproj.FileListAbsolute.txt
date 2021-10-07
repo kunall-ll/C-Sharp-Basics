@@ -1,0 +1,6 @@
+C:\Users\kunal\source\repos\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\kunal\source\repos\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\kunal\source\repos\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\kunal\source\repos\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\kunal\source\repos\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\kunal\source\repos\Strings\Strings\obj\Debug\Strings.pdb
